@@ -1,0 +1,366 @@
+@charset "UTF-8"
+
+boby {
+
+  font-family: "Avenir Next", "Hiragino Kaku Gothic ProN W3", sans-serif;
+
+}
+
+li {
+  list-style: none;
+  font-size: 18px;
+  padding-bottom: 10px;
+}
+
+header {
+ height: 100px;
+ width: 1280px;
+ margin:auto
+
+}
+
+
+
+.header-container {
+  width: 100%;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+.header-logo img {
+  float: left;
+
+  height: 95px;
+  width: 120px;
+  padding:2px 5px 2px 0;
+  opacity: 0.7;
+}
+
+.header-list p {
+  float:left;
+
+  padding-right: 40px;
+  padding-top: 50px;
+  font-size: 18px;
+
+　
+
+}
+
+.header-list {
+  padding-left: 620px;
+}
+
+.top-wrapper {
+    background-image: url("bg1.jpg");
+    background-size: cover;
+    padding: 180px 0 50px 0;
+    height: 400px;
+    color: black;
+    opacity: 0.7;
+}
+
+.top-container {
+
+  width: 840px;
+  margin:0 auto;
+  text-align: center;
+  margin-top
+
+}
+
+.top-logo {
+  padding-bottom: 20px;
+}
+
+.top-list h1{
+  background-color rgba(226, 235, 163, 0.5)
+
+  padding-top: 20px;
+  letter-spacing: 1px;
+
+}
+
+
+main {
+  width: 1280px;
+  margin: auto;
+
+}
+
+.top-logo img{
+  height: 300px;
+}
+
+
+.title1 {
+  width:1280px;
+  height: 600px;
+  position: relative
+}
+
+.title1 h1 {
+  width: 640px;
+  border-bottom: 5px solid #333;
+  opacity: 0.7;
+  letter-spacing: 10px;
+  padding: 50px 0 10px 0;
+
+
+}
+
+.title1 p {
+  font-size: 22px;
+  letter-spacing: 3px;
+  padding-top: 10px;
+}
+
+.title1-list {
+  width: 640px;
+  position: relative;
+
+}
+
+
+.title1-logo {
+  padding-bottom:0px;
+}
+
+.photo1 img{
+  width: 500px;
+  height: 500px;
+  float:right;
+  padding-bottom: 600px;
+  position: absolute;
+  top: 100px;
+  left: 740px;
+}
+
+
+
+.title2 {
+  float: right;
+  padding-top: 80px;
+  width:640px;
+  height: 600px;
+  position: relative;
+}
+
+.title2 h1 {
+  width: 640px;
+  border-bottom: 5px solid #333;
+  opacity: 0.7;
+  letter-spacing: 10px;
+  padding: 50px 0 10px 0;
+}
+
+.title2 p {
+  font-size: 22px;
+  letter-spacing: 3px;
+  padding-top: 10px;
+}
+
+.title2-list {
+  padding-top: 20px;
+  width: 640px;
+  position: relative;
+}
+.photo2 img {
+  width: 500px;
+  height: 400px;
+  float:left;
+
+  position: absolute;
+  top: 150px;
+  right:750px;
+}
+
+.title3 {
+  float: left;
+  padding-top: 600px;
+  position: relative;
+}
+
+.title3 h1 {
+  width: 640px;
+  border-bottom: 5px solid #333;
+  opacity: 0.7;
+  letter-spacing: 10px;
+  padding: 50px 0 10px 0;
+
+}
+
+.title3-list p {
+  font-size: 22px;
+  letter-spacing: 3px;
+  padding-top: 0px;
+}
+
+.title3-list {
+  padding-top: 20px;
+  width: 640px;
+  position: relative;
+}
+
+.photo3 img{
+  width: 500px;
+  height: 400px;
+  float:right;
+  padding-bottom: 600px;
+  position: absolute;
+  top: 750px;
+  left: 740px;
+}
+
+
+.title4 {
+
+  padding-top: 580px;
+  float:right;
+
+}
+
+.title4 h1 {
+  width: 640px;
+  border-bottom: 5px solid #333;
+  opacity: 0.7;
+  letter-spacing: 10px;
+  padding: 50px 0 10px 0;
+
+}
+
+.title4 p {
+  padding-top: 10px;
+  font-size: 25px;
+  letter-spacing: 5px;
+}
+
+.title4-list {
+  padding-top: 20px;
+  width: 640px;
+  position: relative;
+
+}
+
+.title4-logo {
+  width: 1280px
+  text-align: center;
+
+}
+
+.title4-list h3 {
+    opacity: 0.7;
+  letter-spacing: 5px;
+  padding: 50px 0 10px 0;
+  font-size: 26px;
+  background-color: green;
+  color: white;
+  padding: 10px;
+}
+.title4-list h2 {
+  padding-top: 10px;
+  font-size: 25px;
+  letter-spacing: 5px;
+    opacity: 0.7;
+}
+
+.photo4 img {
+  width: 500px;
+  height: 400px;
+  float:left;
+
+  position: absolute;
+  top: 0px;
+  right: 750px;
+}
+
+.title5 {
+  float: right;
+  padding-top: 700px;
+  position: relative;
+}
+
+.title5 h1 {
+  width: 640px;
+  border-bottom: 5px solid #333;
+  opacity: 0.7;
+  letter-spacing: 10px;
+  padding: 50px 0 10px 0;
+
+}
+
+.title5 p {
+  padding-top: 10px;
+  font-size: 25px;
+  letter-spacing: 3px;
+}
+
+.title5-list {
+  padding-top: 20px;
+  width: 640px;
+  position: relative;
+}
+
+.address1 {
+  margin-bottom: 100px;
+  padding-bottom : 10px;
+}
+
+.address2 p {
+  margin-top: 0px;
+}
+
+.photo5 img{
+  width: 500px;
+  height: 400px;
+  float:right;
+  padding-bottom: 600px;
+  position: absolute;
+  top: 0px;
+  left: 740px;
+}
+
+.bottom-logo {
+  width: 1280px;
+  margin:auto;
+  margin-bottom: 100px;
+}
+
+footer {
+ height: 100px;
+ width: 1280px;
+ margin:auto;
+ font-size: 8px;
+
+
+     background-image: url("bg1.jpg");
+     background-size: cover;
+
+     height: 250px;
+     color: black;
+     opacity: 0.7;
+}
+
+.footer-container {
+  width: 100%;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+.footer-logo img {
+  float: left;
+
+  height: 95px;
+  width: 120px;
+  padding:2px 5px 2px 0;
+  opacity: 0.7;
+}
+
+.footer-list  {
+  float: right;
+
+  padding-right: 20px;
+
+
+
+}
